@@ -11,4 +11,8 @@ fn main() {
     let (x, y, z) = one_two_three();
 
     let (employee, access) = ("Jake", Access::Full);
+
+    numbers.0;
+    numbers.1;
+    numbers.2;
 }
